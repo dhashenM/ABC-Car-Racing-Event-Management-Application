@@ -1,2 +1,1 @@
-# ABC Car Racing Event Management Application
- 
+This project was created as part of the 'Data Structures and Algorithms' module coursework. This application is used to track and manage ABC’s Car Racing event. Some of its tasks are to register car details (unique number, brand, sponsor and driver details), insert the results of each round/lap (consisting of a total of 3 laps) and determine the winners of each lap (1st, 2nd, 3rd), eliminate the car that came in last for each lap, determine the overall winner of the race, and look at the car records. The application was primarily made using a Stack data structure.
